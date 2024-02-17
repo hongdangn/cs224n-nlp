@@ -1,0 +1,47 @@
+[
+    {
+        "id": 14782,
+        "Problem": "a man whose bowling average is 12.4 , takes 5 wickets for 26 runs and there by decreases his average by 0.4 . the number of wickets taken by him before his last match is ?",
+        "options": "a ) 82 , b ) 83 , c ) 84 , d ) 85 , e ) 86",
+        "Rationale": "\"12.4 x + 26 / ( 5 + x ) = 12 12.4 x + 26 = 60 + 12 x x = 34 / 0.4 = 85 answer : d\"",
+        "correct": "d",
+        "diagramRef": "",
+        "category": "general"
+    },
+    {
+        "id": 14783,
+        "Problem": "find the slope of the line perpendicular to the line y = x - 7",
+        "options": "a ) 1 , b ) 2 , c ) - 1 , d ) 4 , e ) 5",
+        "Rationale": "two lines are perpendicular if the product of their slopes is equal to - 1 . the slope of the given line is equal to 1 . if m is the slope of the line perpendicular to the given line , then m \u00d7 1 = - 1 solve for m m = - 1 correct answer c ) - 1",
+        "correct": "c",
+        "diagramRef": "",
+        "category": "general"
+    },
+    {
+        "id": 14784,
+        "Problem": "a flagstaff 17.5 m high casts a shadow of length 40.25 m . the height of the building , which casts a shadow of length 28.75 m under similar conditions will be",
+        "options": "a ) 12.5 m , b ) 10 m , c ) 17.5 m , d ) 21.25 m , e ) 9.8 m",
+        "Rationale": "\"let the height of the building x metres . less lengthy shadow , less in the height ( direct proportion ) 40.25 : 28.75 : : 17.5 : x 40.25 * x = 28.75 * 17.5 x = ( 28.75 x 17.5 ) / 40.25 x = 12.5 answer is a .\"",
+        "correct": "a",
+        "diagramRef": "",
+        "category": "physics"
+    },
+    {
+        "id": 14785,
+        "Problem": "the length of the bridge , which a train 160 meters long and travelling at 45 km / hr can cross in 30 seconds , is ?",
+        "options": "a ) 766 m , b ) 156 m , c ) 215 m , d ) 156 m , e ) 156 m",
+        "Rationale": "\"speed = ( 45 * 5 / 18 ) m / sec = ( 25 / 2 ) m / sec . time = 30 sec . let the length of bridge be x meters . then , ( 160 + x ) / 30 = 25 / 2 = = > 2 ( 160 + x ) = 750 = = > x = 215 m . answer : c\"",
+        "correct": "c",
+        "diagramRef": "",
+        "category": "physics"
+    },
+    {
+        "id": 14786,
+        "Problem": "find the simple interest on $ 10000 at 8 % per annum for 12 months ?",
+        "options": "a ) $ 410 , b ) $ 500 , c ) $ 650 , d ) $ 800 , e ) $ 1000",
+        "Rationale": "\"p = $ 10000 r = 8 % t = 12 / 12 years = 1 year s . i . = p * r * t / 100 = 10000 * 8 * 1 / 100 = $ 800 answer is d\"",
+        "correct": "d",
+        "diagramRef": "",
+        "category": "gain"
+    }
+]
