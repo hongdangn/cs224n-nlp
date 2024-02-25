@@ -1,1 +1,1 @@
-# cs224n-nlp
+# nlp sources, reference - practicing
